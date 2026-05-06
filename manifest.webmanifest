@@ -1,0 +1,17 @@
+{
+  "name": "Hogar de Larry - Prestamos y abonos",
+  "short_name": "Hogar de Larry",
+  "description": "Control de prestamos, productos fiados, cuotas, saldos y recibos.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#176b5f",
+  "icons": [
+    {
+      "src": "logo-hogar-de-larry-web.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
