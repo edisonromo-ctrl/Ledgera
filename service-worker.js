@@ -2,7 +2,7 @@ const CACHE_NAME = 'hogar-de-larry-v1';
 const APP_FILES = [
   './',
   './index.html',
-  './logo-hogar-de-larry-web.png',
+  './logo.svg',
   './manifest.webmanifest'
 ];
 
