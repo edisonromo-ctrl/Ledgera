@@ -1,4 +1,4 @@
-# Hogar de Larry - Control de prestamos y abonos
+# HOGAR DE LARRY - Control de prestamos y abonos
 
 Aplicacion web sencilla para llevar el control de prestamos de dinero o productos fiados.
 
@@ -15,7 +15,7 @@ Aplicacion web sencilla para llevar el control de prestamos de dinero o producto
 
 ## Autoria
 
-Hecha por Lina Rodriguez para el proyecto Hogar de Larry.
+Hecha por Lina Rodriguez para el proyecto HOGAR DE LARRY.
 
 ## Uso
 
