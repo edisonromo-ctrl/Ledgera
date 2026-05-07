@@ -1,6 +1,6 @@
 {
-  "name": "Hogar de Larry - Prestamos y abonos",
-  "short_name": "Hogar de Larry",
+  "name": "HOGAR DE LARRY - Prestamos y abonos",
+  "short_name": "HOGAR DE LARRY",
   "description": "Control de prestamos, productos fiados, cuotas, saldos y recibos.",
   "start_url": "./index.html",
   "display": "standalone",
