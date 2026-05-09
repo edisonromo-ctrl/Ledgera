@@ -1,17 +1,21 @@
 {
-  "name": "HOGAR DE LARRY - Prestamos y abonos",
+  "name": "HOGAR DE LARRY - Cuentas y abonos",
   "short_name": "HOGAR DE LARRY",
-  "description": "Control de prestamos, productos fiados, cuotas, saldos y recibos.",
+  "description": "Control de prestamos, productos vendidos por cuotas, intereses, saldos y recibos.",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#f6f3ee",
   "theme_color": "#176b5f",
   "icons": [
     {
-      "src": "logo.svg",
+      "src": "abstracta.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "categories": ["finance", "productivity", "business"],
+  "lang": "es-CO"
 }
