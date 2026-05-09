@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hogar-de-larry-v2';
+const CACHE_NAME = 'hogar-de-larry-v3';
 const APP_FILES = ['./', './index.html', './abstracta.svg', './manifest.webmanifest'];
 
 self.addEventListener('install', (event) => {
