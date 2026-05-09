@@ -8,6 +8,7 @@ Aplicacion web para llevar el control de prestamos de dinero o productos vendido
 - Registrar si es prestamo, producto vendido u otro acuerdo.
 - Guardar valor base, ganancia por porcentaje o por valor fijo, cuotas y frecuencia.
 - Calcular valor total, ganancia y valor de cada cuota.
+- Mostrar la equivalencia: porcentaje por cuota cuando se escribe valor fijo, o dinero por cuota cuando se escribe porcentaje.
 - Agregar abonos por cuotas.
 - Ver total abonado, saldo pendiente y estado de pago.
 - Mantener los registros plegados en un boton para trabajar mejor desde el celular.
